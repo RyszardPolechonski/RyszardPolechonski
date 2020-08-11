@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Ryszard!
+
+* :construction_worker_man: I'm Master Science in Civil Engineering
+* :computer: Currently working as BIM modeler
+* :dart: My goal for 2020 is to start IT career
+* :guitar: In my free time I play guitar and travel
+
+## Contact with me
+
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/122_Facebook_F_logo_logos-48.png"/>](https://www.facebook.com/ryszard.polechonski)
+
+## Languages and tools
+
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png"/>
 
 <!--
 **RyszardPolechonski/RyszardPolechonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
