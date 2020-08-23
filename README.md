@@ -13,8 +13,14 @@
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png"/>     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png"/>
 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyszardPolechonski)](https://github.com/anuraghazra/github-readme-stats)
+
+## Deployments
+
+* :partly_sunny: Weather app -> https://pogodakekw.herokuapp.com
+* :office: Company website -> https://ryszardpolechonski.github.io/company-website
+* :man: My personal website -> https://ryszardpolechonski.github.io/website
+
 <!--
 **RyszardPolechonski/RyszardPolechonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
