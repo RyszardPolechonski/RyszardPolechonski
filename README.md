@@ -17,9 +17,9 @@
 
 ## Deployments
 
-* :partly_sunny: Weather app -> https://pogodakekw.herokuapp.com
-* :office: Company website -> https://ryszardpolechonski.github.io/company-website
-* :man: My personal website -> https://ryszardpolechonski.github.io/website
+* :partly_sunny: [Weather App - Heroku](https://pogodakekw.herokuapp.com)
+* :office: [Company website - GH Pages](https://ryszardpolechonski.github.io/company-website)
+* :man: [My personal website - GH Pages](https://ryszardpolechonski.github.io/website)
 
 <!--
 **RyszardPolechonski/RyszardPolechonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
