@@ -1,8 +1,8 @@
 ### Hi there, my name is Ryszard!
 
 * :construction_worker_man: I'm a Master Science in Civil Engineering
-* :computer: Currently working as a BIM modeler
-* :dart: My goal for 2020 is to start IT career
+* :computer: Currently work as a BIM bridge engineer
+* :dart: My goal for 2020 is to get to know the IT and BIM world as much as it's possible
 * :guitar: In my free time I play guitar and travel
 
 ## Contact with me
